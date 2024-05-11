@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+#quote {
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 5px;
+    cursor: pointer;
+}
